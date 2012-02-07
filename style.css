@@ -1,0 +1,20 @@
+body, tbody {
+	font-size: 10pt;
+	font-family: Arial, Helvetica, Geneva, Swiss, SunSans-Regular;
+}
+
+.boxShowingCorrect {
+	background-color: #aaffaa;
+	padding: 6px;
+}
+
+.boxShowingIncorrect {
+	background-color: #ffaaaa;
+	padding: 6px;
+}
+
+.warning {
+	font-size: 10pt;
+	font-weight: bold;
+	color: #ff0000;
+}
